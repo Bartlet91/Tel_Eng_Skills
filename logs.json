@@ -1,0 +1,2 @@
+{"syslog_proc":"2496","severity":"high","host":{"hostname":"elastic"},"syslog_version":"1","timestamp":"2016-12-25T09:03:52.754646-06:00","syslog_host":"contosohost1","description":"Virus Found","sylog_priority":"14","@version":"1","app>
+{"syslog_proc":"2496","severity":"medium","host":{"hostname":"elastic"},"syslog_version":"1","timestamp":"2016-12-25T09:03:52.754646-06:00","syslog_host":"contosohost1","description":"Virus Found","sylog_priority":"14","@version":"1","a>
